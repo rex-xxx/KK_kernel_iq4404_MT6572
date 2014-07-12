@@ -1,0 +1,5 @@
+config SND_MT_ALSA_6582
+    bool "SND_MT_SOC_6582_driver"
+    default y
+    help
+        If you say Y, enable SND_MT_ALSA_6582.
