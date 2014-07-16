@@ -12,11 +12,11 @@
 #define TPD_VELOCITY_CUSTOM_X 10
 #define TPD_VELOCITY_CUSTOM_Y 10
 
-#define CUST_EINT_TOUCH_PANEL_TYPE	8
-//#define TPD_CLOSE_POWER_IN_SLEEP
+#define CUST_EINT_TOUCH_PANEL_TYPE	1
+#define TPD_CLOSE_POWER_IN_SLEEP
 #define TPD_POWER_SOURCE_CUSTOM         MT6323_POWER_LDO_DEFAULT
 
-#define TPD_DELAY                (2*HZ/100)
+//#define TPD_DELAY                (2*HZ/100)
 //#define TPD_RES_X                480
 //#define TPD_RES_Y                800
 #define TPD_CALIBRATION_MATRIX  {962,0,0,0,1600,0,0,0};
