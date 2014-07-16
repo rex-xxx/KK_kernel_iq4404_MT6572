@@ -226,6 +226,9 @@
 #define GC0313MIPI_YUV_SENSOR_ID                0xD0
 #define IMX135_SENSOR_ID                        0x0135  
 #define OV16825MIPI_SENSOR_ID                       0x0168
+#define SP0A28_SENSOR_ID			  	0xa2
+#define SP0A28_SENSOR_ID			  	0xa2
+#define SP0A28_SENSOR_ID			  	0xa2
 #define IMX220_SENSOR_ID                        0x0220
 #define GC2035_SENSOR_ID			0x2035
 #define GC0329_SENSOR_ID			0xC0
@@ -300,7 +303,7 @@
 #define SENSOR_DRVNAME_GC2035_YUV   "gc2035_yuv"
 #define SENSOR_DRVNAME_GC0329_YUV   "gc0329_yuv"
 #define SENSOR_DRVNAME_GC0330_YUV   "gc0330_yuv"
-
+#define SENSOR_DRVNAME_SP0A28_MIPI_YUV   "sp0a28mipiyuv"
 #define SENSOR_DRVNAME_OV9740_MIPI_YUV     "ov9740mipiyuv"
 #define SENSOR_DRVNAME_S5K3H2YX_MIPI_RAW   "s5k3h2yxmipiraw"
 #define SENSOR_DRVNAME_SP0A19_YUV   "sp0a19yuv"
